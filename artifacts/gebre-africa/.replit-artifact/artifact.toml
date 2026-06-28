@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Gebre Africa School Management"
+version = "1.0.0"
+id = "artifacts/gebre-africa"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21329
+
+[services.development]
+run = "pnpm --filter @workspace/gebre-africa run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/gebre-africa", "run", "build" ]
+publicDir = "artifacts/gebre-africa/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21329"
+BASE_PATH = "/"

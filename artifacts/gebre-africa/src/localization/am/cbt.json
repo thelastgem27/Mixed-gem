@@ -1,0 +1,18 @@
+{
+  "title": "CBT ስርዓት",
+  "questionBank": "የጥያቄዎች ባንክ",
+  "exams": "ፈተናዎች",
+  "createExam": "ፈተና ፍጠር",
+  "addQuestion": "ጥያቄ ጨምር",
+  "results": "ውጤቶች",
+  "timer": "ሰዓት",
+  "randomization": "በዘፈቀደ ማቀያየር",
+  "practiceMode": "የልምምድ ሁነታ",
+  "examTitle": "የፈተናው ርዕስ",
+  "duration": "የፈጀው ጊዜ (ደቂቃ)",
+  "questionText": "የጥያቄው ጽሁፍ",
+  "options": "ምርጫዎች",
+  "correctAnswer": "ትክክለኛ መልስ",
+  "explanation": "ማብራሪያ",
+  "difficulty": "ጥንካሬ"
+}

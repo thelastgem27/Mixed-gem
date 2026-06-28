@@ -1,0 +1,11 @@
+{
+  "title": "ፋይናንስ",
+  "feeStructure": "የክፍያ መዋቅር",
+  "feeTypes": "የክፍያ አይነቶች",
+  "addFeeType": "የክፍያ አይነት ጨምር",
+  "amount": "መጠን",
+  "gradeLevel": "የክፍል ደረጃ",
+  "dueDate": "የመጨረሻ ቀን",
+  "academicYear": "የትምህርት ዘመን",
+  "term": "ሴሚስተር"
+}

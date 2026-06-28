@@ -1,0 +1,22 @@
+{
+  "title": "የሰው ኃይል አስተዳደር",
+  "teachers": "መምህራን",
+  "staff": "ሰራተኞች",
+  "payroll": "የደመወዝ ክፍያ",
+  "leaveTracking": "የእረፍት ክትትል",
+  "departments": "ክፍሎች",
+  "teacherProfiles": "የመምህራን መገለጫ",
+  "addTeacher": "መምህር ጨምር",
+  "qualification": "የትምህርት ደረጃ",
+  "subjects": "ትምህርቶች",
+  "staffCode": "የሰራተኛ መለያ",
+  "form": {
+    "firstName": "የመጀመሪያ ስም",
+    "lastName": "የአያት ስም",
+    "email": "ኢሜይል",
+    "phone": "ስልክ",
+    "qualification": "የትምህርት ደረጃ",
+    "subjects": "ትምህርቶች (በኮማ የተለዩ)",
+    "submit": "መምህሩን መዝግብ"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reports",
+  "academicReport": "Academic Report Card",
+  "attendanceReport": "Attendance Report",
+  "performanceAnalytics": "Performance Analytics",
+  "studentReport": "Student Report",
+  "teacherReport": "Teacher Report",
+  "schoolReport": "School Report",
+  "generateReport": "Generate Report",
+  "exportPdf": "Export PDF",
+  "exportCsv": "Export CSV",
+  "print": "Print"
+}

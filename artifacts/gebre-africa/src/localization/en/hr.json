@@ -1,0 +1,22 @@
+{
+  "title": "Human Resources",
+  "teachers": "Teachers",
+  "staff": "Staff",
+  "payroll": "Payroll",
+  "leaveTracking": "Leave Tracking",
+  "departments": "Departments",
+  "teacherProfiles": "Teacher Profiles",
+  "addTeacher": "Add Teacher",
+  "qualification": "Qualification",
+  "subjects": "Subjects",
+  "staffCode": "Staff Code",
+  "form": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "qualification": "Qualification",
+    "subjects": "Subjects (comma separated)",
+    "submit": "Save Teacher"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Cashier",
+  "fees": "Fees",
+  "payments": "Payments",
+  "receipts": "Receipts",
+  "balanceTracking": "Balance Tracking",
+  "feeManagement": "Fee Management",
+  "collectPayment": "Collect Payment",
+  "unpaid": "Unpaid",
+  "paid": "Paid",
+  "partial": "Partial",
+  "student": "Student",
+  "amount": "Amount",
+  "date": "Date",
+  "status": "Status"
+}

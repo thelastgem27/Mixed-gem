@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "ዳሽቦርድ",
+    "school": "ትምህርት ቤት",
+    "staff": "ሰራተኞች",
+    "announcements": "ማስታወቂያዎች",
+    "attendance": "የመገኘት መቆጣጠሪያ",
+    "reports": "ሪፖርቶች",
+    "settings": "ቅንብሮች",
+    "students": "ተማሪዎች",
+    "teachers": "አስተማሪዎች",
+    "scores": "ውጤቶች",
+    "fees": "ክፍያዎች",
+    "myClasses": "የእኔ ክፍሎች",
+    "questionBank": "የጥያቄ ባንክ",
+    "exams": "ፈተናዎች",
+    "woredas": "ወረዳዎች",
+    "zones": "ዞኖች",
+    "regions": "ክልሎች",
+    "academic": "አካዳሚክ",
+    "administration": "አስተዳደር",
+    "operations": "ኦፕሬሽኖች",
+    "hr": "የሰው ኃይል",
+    "departments": "ክፍሎች",
+    "leave": "ፈቃድ",
+    "payroll": "የደመወዝ ክፍያ"
+  }
+}

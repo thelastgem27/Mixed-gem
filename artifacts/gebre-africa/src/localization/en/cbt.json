@@ -1,0 +1,18 @@
+{
+  "title": "CBT System",
+  "questionBank": "Question Bank",
+  "exams": "Exams",
+  "createExam": "Create Exam",
+  "addQuestion": "Add Question",
+  "results": "Results",
+  "timer": "Timer",
+  "randomization": "Randomization",
+  "practiceMode": "Practice Mode",
+  "examTitle": "Exam Title",
+  "duration": "Duration (min)",
+  "questionText": "Question Text",
+  "options": "Options",
+  "correctAnswer": "Correct Answer",
+  "explanation": "Explanation",
+  "difficulty": "Difficulty"
+}

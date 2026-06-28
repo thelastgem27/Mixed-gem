@@ -1,0 +1,21 @@
+{
+  "welcome": "እንኳን ደህና መጡ",
+  "loading": "በመጫን ላይ...",
+  "error": "ስህተት ተከስቷል",
+  "success": "ተሳክቷል",
+  "save": "አስቀምጥ",
+  "cancel": "ሰርዝ",
+  "delete": "አጥፋ",
+  "edit": "አስተካክል",
+  "add": "ጨምር",
+  "search": "ፈልግ",
+  "filter": "አጣራ",
+  "actions": "ተግባራት",
+  "back": "ተመለስ",
+  "continue": "ቀጥል",
+  "submit": "አስገባ",
+  "logout": "ውጣ",
+  "language": "ቋንቋ",
+  "changeLanguage": "ቋንቋ ይቀይሩ",
+  "noData": "ምንም ውሂብ የለም"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Government Dashboard",
+  "country": "Country",
+  "region": "Region",
+  "zone": "Zone",
+  "woreda": "Woreda",
+  "analytics": "Analytics",
+  "schools": "Schools",
+  "students": "Students",
+  "teachers": "Teachers",
+  "attendance": "Attendance",
+  "enrollment": "Enrollment",
+  "performance": "Performance",
+  "genderDistribution": "Gender Distribution"
+}

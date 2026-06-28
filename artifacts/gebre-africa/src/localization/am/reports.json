@@ -1,0 +1,13 @@
+{
+  "title": "ሪፖርቶች",
+  "academicReport": "የትምህርት ውጤት ካርድ",
+  "attendanceReport": "የመገኘት ሪፖርት",
+  "performanceAnalytics": "የአፈፃፀም ትንታኔ",
+  "studentReport": "የተማሪ ሪፖርት",
+  "teacherReport": "የመምህር ሪፖርት",
+  "schoolReport": "የትምህርት ቤት ሪፖርት",
+  "generateReport": "ሪፖርት አውጣ",
+  "exportPdf": "ወደ PDF ቀይር",
+  "exportCsv": "ወደ CSV ቀይር",
+  "print": "አትም"
+}

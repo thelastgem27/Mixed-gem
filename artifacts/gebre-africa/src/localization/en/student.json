@@ -1,0 +1,13 @@
+{
+  "title": "Students",
+  "addStudent": "Add Student",
+  "table": {
+    "id": "Student ID",
+    "name": "Name",
+    "grade": "Grade",
+    "section": "Section",
+    "actions": "Actions",
+    "view": "View",
+    "noStudents": "No students found."
+  }
+}

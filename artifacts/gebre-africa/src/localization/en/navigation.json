@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "school": "School",
+    "staff": "Staff",
+    "announcements": "Announcements",
+    "attendance": "Attendance",
+    "reports": "Reports",
+    "settings": "Settings",
+    "students": "Students",
+    "teachers": "Teachers",
+    "scores": "Scores",
+    "fees": "Fees",
+    "myClasses": "My Classes",
+    "questionBank": "Question Bank",
+    "exams": "Exams",
+    "woredas": "Woredas",
+    "zones": "Zones",
+    "regions": "Regions",
+    "academic": "Academic",
+    "administration": "Administration",
+    "operations": "Operations",
+    "hr": "HR",
+    "departments": "Departments",
+    "leave": "Leave",
+    "payroll": "Payroll"
+  }
+}

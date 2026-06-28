@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "success": "Success",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "add": "Add",
+  "search": "Search",
+  "filter": "Filter",
+  "actions": "Actions",
+  "back": "Back",
+  "continue": "Continue",
+  "submit": "Submit",
+  "logout": "Log Out",
+  "language": "Language",
+  "changeLanguage": "Change Language",
+  "noData": "No data available"
+}

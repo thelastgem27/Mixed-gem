@@ -1,0 +1,11 @@
+{
+  "title": "Finance",
+  "feeStructure": "Fee Structure",
+  "feeTypes": "Fee Types",
+  "addFeeType": "Add Fee Type",
+  "amount": "Amount",
+  "gradeLevel": "Grade Level",
+  "dueDate": "Due Date",
+  "academicYear": "Academic Year",
+  "term": "Term"
+}

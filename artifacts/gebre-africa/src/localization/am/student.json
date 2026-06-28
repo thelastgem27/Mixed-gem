@@ -1,0 +1,13 @@
+{
+  "title": "ተማሪዎች",
+  "addStudent": "ተማሪ ጨምር",
+  "table": {
+    "id": "የተማሪ መታወቂያ",
+    "name": "ስም",
+    "grade": "ክፍል",
+    "section": "ሴክሽን",
+    "actions": "ተግባራት",
+    "view": "እይ",
+    "noStudents": "ምንም ተማሪ አልተገኘም።"
+  }
+}

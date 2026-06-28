@@ -1,0 +1,16 @@
+{
+  "title": "ካሳ ተቀባይ",
+  "fees": "ክፍያዎች",
+  "payments": "ክፍያዎች",
+  "receipts": "ደረሰኞች",
+  "balanceTracking": "የሂሳብ ክትትል",
+  "feeManagement": "የክፍያ አስተዳደር",
+  "collectPayment": "ክፍያ ተቀበል",
+  "unpaid": "ያልተከፈለ",
+  "paid": "የተከፈለ",
+  "partial": "በከፊል የተከፈለ",
+  "student": "ተማሪ",
+  "amount": "መጠን",
+  "date": "ቀን",
+  "status": "ሁኔታ"
+}
