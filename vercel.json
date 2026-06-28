@@ -1,7 +1,7 @@
 {
   "installCommand": "pnpm install --frozen-lockfile",
   "buildCommand": "pnpm --filter @workspace/gebre-africa run build",
-  "outputDirectory": "artifacts/gebre-africa/dist/public",
-  "framework": null,
+  "outputDirectory": "artifacts/gebre-africa/dist",
+  "framework": "vite",
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
